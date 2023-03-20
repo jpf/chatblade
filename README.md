@@ -50,7 +50,7 @@ The piped input is placed above the query and sent to ChatGPT. In this example, 
 
 <img src="assets/example3.png">
 
-### Check token count and estimaed costs
+### Check token count and estimated costs
 If you want to check the approximate cost and token usage of a previous query, you can use the `-t` flag for "tokens."
 
 ```bash
